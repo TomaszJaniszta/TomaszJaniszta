@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here you will find my code mainly in Node.js, React.js and Angular. 
+These are exemplary works in constant development. 
+With every commit will change in different aspects.
+I'm open to cooperation as a font-end, back-end, full stack programmer... 
+
+Regards TJ
