@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here you will find my code mainly in Node.js, React.js and Angular. 
+Here you will find my code mainly in Node.js, React.js and Angular (JavaScript). 
 These are exemplary works in constant development. 
 With every commit will change in different aspects.
 I'm open to cooperation as a font-end, back-end, full stack programmer... 
