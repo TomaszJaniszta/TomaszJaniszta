@@ -20,4 +20,8 @@ These are exemplary works in constant development.
 With every commit will change in different aspects.
 I'm open to cooperation as a font-end, back-end, full stack programmer... 
 
+My presentation page:
+https://tomaszjaniszta.github.io/
+(content still under development)
+
 Regards TJ
