@@ -30,3 +30,6 @@ My presentation page:
 Regards TJ
 
 ![javascript logo image](https://github.com/TomaszJaniszta/Assets/blob/main/images/javascript118x40.png) ![angular logo image](https://github.com/TomaszJaniszta/Assets/blob/main/images/angular128x40.png) ![node.js logo image](https://github.com/TomaszJaniszta/Assets/blob/main/images/node115x40.png) ![react logo image](https://github.com/TomaszJaniszta/Assets/blob/main/images/react110x40.png)
+
+
+<!-- [![Image of https://github.com/gayanvoice/my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter) -->
